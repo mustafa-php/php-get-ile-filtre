@@ -1,1 +1,2 @@
-# php-get-methodu-ile-arama
+# PHP; GET methodu ile verileri filtreleme
+Get methodu ile verileri filtreyip listeleme yapımı
